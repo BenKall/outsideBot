@@ -1,0 +1,27 @@
+{
+  "name": "outsidebot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "src/bot.js",
+  "scripts": {
+    "test": "node ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BenKall/outsideBot.git"
+  },
+  "keywords": [],
+  "author": "Ben Kallush",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/BenKall/outsideBot/issues"
+  },
+  "homepage": "https://github.com/BenKall/outsideBot#readme",
+  "dependencies": {
+    "@discordjs/rest": "^1.2.0",
+    "chalk": "^4.1.2",
+    "discord-api-types": "^0.37.11",
+    "discord.js": "^14.5.0",
+    "dotenv": "^16.0.3"
+  }
+}
